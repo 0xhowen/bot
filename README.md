@@ -1,1 +1,1 @@
-# bot
+Adding a readme to bot for now. 
