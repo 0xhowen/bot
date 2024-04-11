@@ -1,5 +1,5 @@
 def main():
-    openF = open("/Users/harrisonowen/bootDev/bot/books/Frankenstein.txt", "r")
+    openF = open("", "r")
     book = openF.read()
     local_word_count = get_num(book)
     local_char_count = get_chars(book)
